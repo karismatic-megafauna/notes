@@ -13,7 +13,7 @@
       },
       {
         "description": "code a thing",
-        "status": "incomplete"
+        "status": "complete"
       },
       {
         "description": "write a story",
@@ -35,7 +35,19 @@
     "items": [
       {
         "description": "get home before 6",
-        "status": "incomplete"
+        "status": "complete"
+      },
+      {
+        "description": "pay rent",
+        "status": "complete"
+      },
+      {
+        "description": "buy some boots",
+        "status": "complete"
+      },
+      {
+        "description": "fix initializer for nono",
+        "status": "complete"
       }
     ]
   },
@@ -45,6 +57,10 @@
     "items": [
       {
         "description": "get in before 8",
+        "status": "complete"
+      },
+      {
+        "description": "get views working for milestone 2",
         "status": "complete"
       }
     ]
