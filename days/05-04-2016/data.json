@@ -5,7 +5,7 @@
     "items": [
       {
         "description": "shoot a bow",
-        "status": "incomplete"
+        "status": "complete"
       },
       {
         "description": "exercise",
@@ -45,7 +45,15 @@
     "items": [
       {
         "description": "get in before 8",
+        "status": "complete"
+      },
+      {
+        "description": "breakdown milestone 2",
         "status": "incomplete"
+      },
+      {
+        "description": "address cr on milestone 1 and try and push it to getting merged",
+        "status": "complete"
       }
     ]
   }
