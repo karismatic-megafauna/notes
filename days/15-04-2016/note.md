@@ -10,8 +10,5 @@
 - [ ] 0.) get home before 6
 
 # Work Notes --> wn
-- [ ] 0.) render project picker on edit page
-- [ ] 1.) change the create modal to look like new mocks
-- [ ] 2.) go over new mocks with marcus
-- [ ] 3.) build getRootUrl func
+- [ ] 0.) get in before 8
 
