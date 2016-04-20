@@ -12,6 +12,5 @@
 # Work Notes --> wn
 - [ ] 0.) get in before 8
 - [ ] 1.) complete budget options modal
-- [ ] 2.) fix project picker bug 2 isnt working (remy)
-
+- [x] 2.) pull up and pull request with t-money
 
