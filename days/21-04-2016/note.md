@@ -9,7 +9,8 @@
 # Personal Notes --> pn
 
 # Work Notes --> wn
-- [ ] 0.) configure columns modal start
-- [ ] 1.) make sure renaming works with milestone 2
-- [ ] 2.) wire up formula columns to endpoints
+- [x] 0.) configure columns modal start
+- [x] 1.) make sure renaming works with milestone 2
+- [x] 2.) wire up formula columns to endpoints
+- [ ] 3.) add alias for wrench rails start
 
