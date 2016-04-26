@@ -11,6 +11,6 @@
 
 # Work Notes --> wn
 - [x] 0.) get in before 8
-- [ ] 1.) populate table with projects, move jira task
+- [x] 1.) populate table with projects, move jira task
 - [ ] 2.) start on table dragging, pull in jira ticket
 
