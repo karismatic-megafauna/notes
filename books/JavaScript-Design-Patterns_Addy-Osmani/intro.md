@@ -1,8 +1,8 @@
-# Introduction
+# [Introduction](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction)
 Explains what a pattern is at a high level and gives a brief history of the GoF
 and Christopher Alexander. Pretty cool trivia!
 
-## What is a Pattern
+## [What is a Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern)
 Patterns are...
 0.) Proven solutions
 0.) easily reused
