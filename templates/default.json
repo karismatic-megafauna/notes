@@ -4,23 +4,7 @@
     "description": "things to do every day",
     "items": [
       {
-        "description": "shoot a bow",
-        "status": "incomplete"
-      },
-      {
         "description": "exercise",
-        "status": "incomplete"
-      },
-      {
-        "description": "code a thing",
-        "status": "incomplete"
-      },
-      {
-        "description": "write a story",
-        "status": "incomplete"
-      },
-      {
-        "description": "read a book",
         "status": "incomplete"
       },
       {
