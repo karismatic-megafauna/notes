@@ -1,10 +1,10 @@
 {
-  "Notes": {
-    "cli-ref": "no",
-    "description": "notes for the day",
+  "Daily Notes": {
+    "cli-ref": "dn",
+    "description": "things to do every day",
     "items": [
       {
-        "description": "open nonote",
+        "description": "open nono",
         "status": "complete"
       }
     ]
