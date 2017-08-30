@@ -1,7 +1,7 @@
 {
-  "Daily Notes": {
-    "cli-ref": "dn",
-    "description": "things to do every day",
+  "Personal Notes": {
+    "cli-ref": "pn",
+    "description": "personal things to do every day",
     "items": [
       {
         "description": "open nono",
