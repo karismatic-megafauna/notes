@@ -1,12 +1,19 @@
-{
-  "Personal Notes": {
+[
+  {
+    "title": "Personal Notes",
     "cli-ref": "pn",
-    "description": "personal things to do every day",
+    "description": "personal things",
     "items": [
       {
         "description": "open nono",
         "status": "complete"
       }
     ]
+  },
+  {
+    "title": "Work Notes",
+    "cli-ref": "wn",
+    "description": "work things",
+    "items": [ ]
   }
-}
+]
